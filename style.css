@@ -1,0 +1,20 @@
+.Grade{
+    background-color: aqua;
+
+}
+.titulo{
+    text-align: center;
+    background-color: chocolate;
+    grid-column: 12/ 2;
+}
+.Nav{
+    flex-direction: row-reverse;
+
+    
+}
+.imagens{
+    border-radius: 40px;
+}
+img{
+    border-radius: 40px;
+}

@@ -1,0 +1,5 @@
+.Grade {
+    display: grid;
+    grid-template-columns: 12fr, 1fr;
+    background-color: aqua;
+}
